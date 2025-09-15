@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Aadeetya7/Problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
