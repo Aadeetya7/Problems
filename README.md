@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aadeetya7/Problems/tree/master/0009-palindrome-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/Aadeetya7/Problems/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
