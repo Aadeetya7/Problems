@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Aadeetya7/Problems/tree/master/0383-ransom-note) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
 ## Sorting
 |  |
@@ -19,6 +20,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Aadeetya7/Problems/tree/master/0383-ransom-note) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
 ## Math
 |  |
@@ -32,4 +34,5 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Aadeetya7/Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
