@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Aadeetya7/Problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
