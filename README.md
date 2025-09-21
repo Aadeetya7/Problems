@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
+| [0485-max-consecutive-ones](https://github.com/Aadeetya7/Problems/tree/master/0485-max-consecutive-ones) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
