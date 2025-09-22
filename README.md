@@ -29,6 +29,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Aadeetya7/Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/Aadeetya7/Problems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,4 +52,13 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Aadeetya7/Problems/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Aadeetya7/Problems/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aadeetya7/Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Aadeetya7/Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
