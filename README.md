@@ -44,10 +44,12 @@
 | [0125-valid-palindrome](https://github.com/Aadeetya7/Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aadeetya7/Problems/tree/master/0383-ransom-note) |
+| [0874-backspace-string-compare](https://github.com/Aadeetya7/Problems/tree/master/0874-backspace-string-compare) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aadeetya7/Problems/tree/master/0125-valid-palindrome) |
+| [0874-backspace-string-compare](https://github.com/Aadeetya7/Problems/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -73,4 +75,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadeetya7/Problems/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/Aadeetya7/Problems/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Aadeetya7/Problems/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
