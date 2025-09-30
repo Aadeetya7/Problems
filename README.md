@@ -75,9 +75,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadeetya7/Problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Aadeetya7/Problems/tree/master/0155-min-stack) |
 | [0874-backspace-string-compare](https://github.com/Aadeetya7/Problems/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Aadeetya7/Problems/tree/master/0874-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aadeetya7/Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
