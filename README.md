@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Aadeetya7/Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
+| [0932-monotonic-array](https://github.com/Aadeetya7/Problems/tree/master/0932-monotonic-array) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
 ## Hash Table
 |  |
