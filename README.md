@@ -77,6 +77,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aadeetya7/Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Aadeetya7/Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Aadeetya7/Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/Aadeetya7/Problems/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -86,4 +87,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aadeetya7/Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Aadeetya7/Problems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Aadeetya7/Problems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
