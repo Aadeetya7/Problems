@@ -10,18 +10,21 @@
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/Aadeetya7/Problems/tree/master/0932-monotonic-array) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aadeetya7/Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aadeetya7/Problems/tree/master/0383-ransom-note) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aadeetya7/Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aadeetya7/Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -51,6 +54,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aadeetya7/Problems/tree/master/0125-valid-palindrome) |
 | [0874-backspace-string-compare](https://github.com/Aadeetya7/Problems/tree/master/0874-backspace-string-compare) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Aadeetya7/Problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
