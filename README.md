@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aadeetya7/Problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Aadeetya7/Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
@@ -14,6 +15,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aadeetya7/Problems/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aadeetya7/Problems/tree/master/0383-ransom-note) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
