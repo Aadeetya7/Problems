@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadeetya7/Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Aadeetya7/Problems/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Aadeetya7/Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
@@ -46,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aadeetya7/Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aadeetya7/Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aadeetya7/Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Aadeetya7/Problems/tree/master/0232-implement-queue-using-stacks) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aadeetya7/Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
