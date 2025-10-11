@@ -53,6 +53,7 @@
 | [0014-longest-common-prefix](https://github.com/Aadeetya7/Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aadeetya7/Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Aadeetya7/Problems/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Aadeetya7/Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Aadeetya7/Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aadeetya7/Problems/tree/master/0383-ransom-note) |
