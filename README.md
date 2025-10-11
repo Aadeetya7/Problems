@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aadeetya7/Problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Aadeetya7/Problems/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Aadeetya7/Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/Aadeetya7/Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aadeetya7/Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Aadeetya7/Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aadeetya7/Problems/tree/master/0383-ransom-note) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
@@ -24,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Aadeetya7/Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
@@ -49,6 +52,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aadeetya7/Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aadeetya7/Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Aadeetya7/Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Aadeetya7/Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Aadeetya7/Problems/tree/master/0383-ransom-note) |
