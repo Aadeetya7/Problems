@@ -8,10 +8,10 @@ var isPalindrome = function (s) {
     let right = s.length - 1;
 
     while (left < right) {
-        while (left < right && !isAlphanumeric(s[left])){
+        while (left < right && !isAlphanumeric(s[left])) {
             left++;
         }
-        while (left < right && !isAlphanumeric(s[right])){
+        while (left < right && !isAlphanumeric(s[right])) {
             right--
         }
         if (s[left].toLowerCase() !== s[right].toLowerCase()) {
