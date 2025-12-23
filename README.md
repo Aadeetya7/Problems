@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/Aadeetya7/Problems/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Aadeetya7/Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadeetya7/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/Aadeetya7/Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/Aadeetya7/Problems/tree/master/0932-monotonic-array) |
@@ -82,6 +83,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadeetya7/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Aadeetya7/Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
