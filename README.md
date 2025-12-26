@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/Aadeetya7/Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadeetya7/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0414-third-maximum-number](https://github.com/Aadeetya7/Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aadeetya7/Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/Aadeetya7/Problems/tree/master/0932-monotonic-array) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Aadeetya7/Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Aadeetya7/Problems/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Aadeetya7/Problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
 | [1217-relative-sort-array](https://github.com/Aadeetya7/Problems/tree/master/1217-relative-sort-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aadeetya7/Problems/tree/master/1798-max-number-of-k-sum-pairs) |
