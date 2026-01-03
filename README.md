@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/Aadeetya7/Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Aadeetya7/Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aadeetya7/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Aadeetya7/Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Aadeetya7/Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aadeetya7/Problems/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Aadeetya7/Problems/tree/master/0561-array-partition) |
@@ -70,6 +71,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aadeetya7/Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aadeetya7/Problems/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Aadeetya7/Problems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Aadeetya7/Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aadeetya7/Problems/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Aadeetya7/Problems/tree/master/0874-backspace-string-compare) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Aadeetya7/Problems/tree/master/1798-max-number-of-k-sum-pairs) |
